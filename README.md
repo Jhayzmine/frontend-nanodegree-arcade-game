@@ -1,6 +1,6 @@
 frontend-nanodegree-arcade-game
 ===============================
-by Sandra Brookins
+by Sandra Brookins | July 2016
 
 
 ##How to Run the Game
