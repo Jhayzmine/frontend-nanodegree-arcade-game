@@ -1,5 +1,7 @@
 frontend-nanodegree-arcade-game
 ===============================
+by Sandra Brookins
+
 
 ##How to Run the Game
 Open **index.html** in your browser.
